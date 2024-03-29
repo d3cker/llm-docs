@@ -1,6 +1,6 @@
 # llm-docs
 
-This document describes my first journey to LLM finetuning. Do not threat this as a guide but rather more like a diary / summary. For the sake of clearance this will be as much technical as possible. I must  make a clear statement from the beginning: This doc **doesn't cover ROCm** finetunning. 
+This document describes my first journey to LLM finetuning. Do not treat this as a guide but rather more like a diary / summary. For the sake of clearance this will be as much technical as possible. I must  make a clear statement from the beginning: This doc **doesn't cover ROCm** finetunning. 
 
 ## Table of Contents:
 
